@@ -3,8 +3,10 @@ Bài Tập Lớn KTMT Assembly 8086 Của Nhóm 18 Gồm Có Các Thành Viên:
 2. Hoàng Quý Phước - B24DCCN456
 3. Võ Anh Quân - B24DCCN467
 4. Đỗ Quốc Khánh - B24DCCN302
+   
 Giảng Viên: Vũ Hoài Nam
 Khóa: D24
+
 🎮 Bài tập lớn nhóm
 🕹 Game Tic Tac Toe (Cờ ca-rô) trên Emu8086
 - Viết hoàn chỉnh bằng Assembly
